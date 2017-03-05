@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="PlantUMLHost:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PlantUMLHost_jar</output-path>
+    <root id="root">
+      <element id="archive" name="PlantUMLHost.jar">
+        <element id="module-output" name="PlantUMLHost" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/plantuml.jar" />
+    </root>
+  </artifact>
+</component>
